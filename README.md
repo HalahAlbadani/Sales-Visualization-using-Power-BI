@@ -1,2 +1,2 @@
 # Sales-Visualization-using-Power-BI
-![My image](Excel Dashboard.jpg)
+![My image](Sales-Visualization-using-Power-BI/Excel Dashboard.jpg)
